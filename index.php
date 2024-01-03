@@ -6,6 +6,13 @@
     <title>Currency Change</title>
 </head>
 <body>
+    <main>
+        <form>
+            <label for="amount">Amount to convert</label>
+            <input id="amount" type="number" name="amount">
+            <button type="submit">Submit</button>
+        </form>
+    </main>
     
 </body>
 </html>
