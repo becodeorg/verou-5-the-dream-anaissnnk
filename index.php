@@ -8,7 +8,7 @@
 <body>
     <main>
         <form action="includes/formhandler.php" method="post">
-            <label for="amount">Amount to convert</label>
+            <label for="amount">Convert from yen to euro</label>
             <input id="amount" type="number" name="amount">
             <button type="submit">Submit</button>
         </form>
