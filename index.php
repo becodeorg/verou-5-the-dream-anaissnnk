@@ -7,7 +7,7 @@
 </head>
 <body>
     <main>
-        <form>
+        <form action="includes/formhandler.php" method="post">
             <label for="amount">Amount to convert</label>
             <input id="amount" type="number" name="amount">
             <button type="submit">Submit</button>
